@@ -1,0 +1,11 @@
+* {
+    padding: 0; 
+    margin: 0; 
+}
+
+canvas { 
+    background: #6171FF; 
+    display: block; 
+    margin: 40px auto; 
+    box-shadow: inset 0px 0px 35px 15px rgba(0,0,0,0.3);
+}
